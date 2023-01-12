@@ -4,7 +4,7 @@ int G[10][10],visited[10],n;
 int main()
 {
     int i,j;
-    printf("Enter number of vertices:");
+    printf("Eter number of vertices:");
 scanf("%d",&n);
 printf("Enter adjecency matrix of the graph:\n");
   
